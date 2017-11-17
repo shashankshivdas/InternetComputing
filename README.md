@@ -7,4 +7,6 @@ Since I followed this video: Single page application blog assignment using React
 We open command prompt for the respective folder and use the command: npm start to launch the Website.
 I  have created footer, header, and nav bar for the Website.
 We can use CSS files to be imported for dynamic linking.
+
+
 Youtube Link to show the Website: http://youtu.be/9MY3yu0AEYo?hd=1
